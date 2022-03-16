@@ -1,6 +1,6 @@
-# Webpack Starter
+# Practica JS Todo
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Test de laboratorio - Practicas JavaScript.
 
 ### Notas:
 Recuerden reconstruir los módulos de Node.
